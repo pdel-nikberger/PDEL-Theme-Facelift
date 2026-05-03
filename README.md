@@ -16,7 +16,7 @@ Lade ALLE Dateien herunter.
 Entpacke das Theme-Paket.
 Kopiere die Dateien in dein entsprechendes Theme-Verzeichnis von Racing League Tools.
 Aktiviere das Theme im System.
-Hinweis
+
 
 Dieses Projekt ist ein offizielle Facelift des ursprünglichen PDEL Themes.
 Alle Rechte am originalen Theme liegen bei Nik Berger.
@@ -49,7 +49,7 @@ Download the files.
 Extract the theme package.
 Copy the files into your Racing League Tools theme directory.
 Activate the theme in the system.
-Note
+
 
 This project is an official facelift of the original PDEL Theme.
 All rights to the original theme belong to Nik Berger.
